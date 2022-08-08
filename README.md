@@ -1,7 +1,7 @@
 # <p align="center">FlappyBird Game</p>
 
 Projeto desenvolvido com HTML, CSS e muito JavaScript puro! Feito para a conclusão dos módulos de **HTML, CSS, JavaScript e Integração entre as três (Manipulação do DOM via JS)** do curso de Desenvolvimento WEB da [Cod3r!](https://www.cod3r.com.br)<br><br>
-[Você pode visualização e jogar o game aqui]()
+[Você pode visualização e jogar o game aqui](https://luaxlz.github.io/Flappy_Bird/)
 
 ## Proposta:
 O desafio consiste em criar uma réplica do game FlappyBird utilizando HTML, CSS e JS, afim de solidificar o conhecimento aprendido dos módulos citados e utilizar, em prática, a manipulação do DOM e entender como funciona um código em uma aplicação ativa através de manipulações, criações e coleta de dados.
